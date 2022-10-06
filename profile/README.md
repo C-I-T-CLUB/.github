@@ -5,9 +5,9 @@
 * https://citclubmmu.co.ke
 
 ## OFFICIAL SOCIAL PAGES
-* Twitter: @citclubmmu
+* Twitter: https://twitter.com/citclubmmu
 * Email: citclub@mmu.ac.ke
 * LinkedIn : https://www.linkedin.com/company/citclub
 
 * Created BY: @VictorOmondi1997
-* Created BY: @Paullaster
+* Created BY: https://github.com/paullaster
