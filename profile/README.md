@@ -1,5 +1,5 @@
 # CIT Club MMU
-## Computing and Information TEchnology club of Multimedia University of Kenya
+## Computing and Information Technology club of Multimedia University of Kenya
 
 ## OFFICIAL WEBSITE
 * https://citclubmmu.co.ke
@@ -9,5 +9,6 @@
 * Email: citclub@mmu.ac.ke
 * LinkedIn : https://www.linkedin.com/company/citclub
 
-* Created BY: @VictorOmondi1997
-* Created BY: https://github.com/paullaster
+* Created BY: 
+  * [@VictorOmondi1997](https://github.com/VictorOmondi1997)
+  * [@paullaster](https://github.com/paullaster)
